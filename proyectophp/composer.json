@@ -1,0 +1,14 @@
+{
+    "name": "mistofjoy/proyectophp",
+    "description": "Proyecto ejemplo para curso de introducción a php con composer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jhonkar Sufia",
+            "email": "windyforest13@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
